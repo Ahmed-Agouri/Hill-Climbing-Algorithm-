@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CBB5824A-E553-41BA-A49E-78E7314F04D7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Random Restart ( Hill climbing )/Program.cs">
+    <Files>
+      <File FileName="Random Restart ( Hill climbing )/Dataset1.csv" Line="8" Column="7" />
+      <File FileName="Random Restart ( Hill climbing )/Program.cs" Line="84" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Random Restart ( Hill climbing )" expanded="True">
+            <Node name="Random Restart ( Hill climbing )" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Random_220Restart_220_228_220Hill_220climbing_220_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
